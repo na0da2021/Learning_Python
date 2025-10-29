@@ -3,8 +3,7 @@
 # ---------------
 
 mystring1 = "This is double quotes"
-mystring2 = "This is a single quote"
-
+mystring2 = 'This is a single quote'
 mystring3 = "this is not using escape char 'test'"
 mystring4 = 'this is not using escape char "test"'
 
