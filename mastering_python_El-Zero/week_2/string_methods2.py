@@ -5,7 +5,7 @@ print(a.index("P"))
 print(a.index("P", 0, 8))
 # print(a.index("P", 0, 5))  # Throgh Error و هيوقف اللاينز اللي بعده مش هيكمل
 
-# find(substr, start, end
+# find(substr, start, end)
 b = "I Love Python"
 print(b.find("P"))
 print(b.find("P", 0, 8))
