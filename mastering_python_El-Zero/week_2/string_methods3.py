@@ -2,7 +2,7 @@
 
 a = "Hello one two three one one on on"
 
-print(a.replace("one", "1", 2))
+print(a.replace("one", "1", 3))
 
 # join(Iterable{tuple or list})
 mylist = ["Nada", "Mohamed", "Ahmed", "Mohamed", "Omar"]
